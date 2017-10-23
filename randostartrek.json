@@ -1,12 +1,16 @@
 {
 	"origin": [
-		"In this episode #captain# #things# #reason# "
+		"In this episode #person# #things# #reason# "
 	],
-	"captain": [
+	"person": [
 		"Captain Archer",
 		"Captain Janeway",
 		"Captain Picard",
 		"Commander Sisko",
+		"Lt. Cmdr Worf",
+		"Chief O'Brien",
+		"Lt. Reed",
+		"Mr. Sulu",
 		"Captain Kirk"
 	],
 	"things": [
@@ -93,10 +97,10 @@
 		"but finally figures out what was going on with those worms that took over Starfleet.",
 		"but also starts another war!",
 		"but can't get Ensign Crusher to shut the fuck up.",
-		"but also convinces Star Fleet that holograms have rights.",
-		"but also convinces Star Fleet that fuckbots are sentient and have rights.",
-		"but also convinces Star Fleet to take Space LSD.",
-		"but also convinces Star Fleet to let them go back to Risa.",
+		"but also convinces Starfleet that holograms have rights.",
+		"but also convinces Starfleet that fuckbots are sentient and have rights.",
+		"but also convinces Admiral Fraiser to take Space LSD.",
+		"but also convinces Starfleet to let them go back to Risa.",
 		"but could have solved everything if the sensors had just fucking worked.",
 		"but could have solved everything if the transporter had just fucking worked.",
 		"but could have solved everything if there was any continunity in the series.",
