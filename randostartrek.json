@@ -1,6 +1,11 @@
 {
 	"origin": [
-		"In this episode #person# #things# #reason# "
+		"#intro# #person# #things# #reason# "
+	],
+	"intro": [
+		"In this episode",
+		"This time",
+		"Tonight on Star Trek:"
 	],
 	"person": [
 		"Captain Archer",
@@ -11,6 +16,26 @@
 		"Chief O'Brien",
 		"Lt. Reed",
 		"Mr. Sulu",
+		"Subcommander T'Pol",
+		"Geordi",
+		"Dr. Crusher",
+		"Dr. Pulaski",
+		"Counselor Troi",
+		"Data",
+		"Guinan",
+		"Ensign Ro",
+		"Kira",
+		"Odo",
+		"Dr. Bashir",
+		"Dax",
+		"Nog",
+		"The EMH",
+		"Cmdr. Tuvok",
+		"Chakotay",
+		"Tom Paris",
+		"B'Elanna",
+		"Harry",
+		"Kes",
 		"Captain Kirk"
 	],
 	"things": [
@@ -34,7 +59,7 @@
 		"finds something in the Vulcan database",
 		"accidentally forgets crewman Reyes on Seti Alpha VI",
 		"solves the puzzle onboard a derelict space station",
-		"meets a friendly robot",
+		"meets a friendly robot who just wants to love",
 		"meets an evil robot",
 		"accidentally discovers new life on the holodeck",
 		"contracts space gonorrhea from an alien and has to call all their other lovers to let them know",
@@ -69,6 +94,13 @@
 		"figures out that everyone onboard is actually a changeling",
 		"plays baseball again for some reason",
 		"isn't sure if they can love anymore",
+		"meets Amelia Earhart",
+		"starts a rap battle",
+		"can't stop watching reruns of 2 Broke Girls",
+		"is eaten by a giant space lobster",
+		"paints some art and drinks wine",
+		"has some trouble with tribbles",
+		"explores their emotions",
 		"finds a derelict space ship"
 		
 	],
