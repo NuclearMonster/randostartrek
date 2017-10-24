@@ -10,27 +10,27 @@
 	"tngintro": [
 		"In this episode",
 		"This time",
-		"Tonight on Star Trek: The Next Generation"
+		"Tonight on Star Trek: The Next Generation\n"
 	],
 	"entintro": [
 		"In this episode",
 		"This time",
-		"Tonight on Enterprise"
+		"Tonight on Enterprise\n"
 	],
 	"tosintro": [
 		"In this episode",
 		"This time",
-		"Tonight on Star Trek"
+		"Tonight on Star Trek\n"
 	],
 	"voyintro": [
 		"In this episode",
 		"This time",
-		"Tonight on Star Trek: Voyager"
+		"Tonight on Star Trek: Voyager\n"
 	],
 	"ds9intro": [
 		"In this episode",
 		"This time",
-		"Tonight on Deep Space 9"
+		"Tonight on Deep Space 9\n"
 	],
 	"tngperson": [
 		"Captain Picard",
@@ -71,10 +71,9 @@
 		"Harry",
 		"Kes",
 		"Seven of Nine"
-	
 	],
+	
 	"ds9person":[
-		
 		"Commander Sisko",
 		"Chief O'Brien",
 		"Kira",
