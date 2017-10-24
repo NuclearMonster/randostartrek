@@ -1,34 +1,68 @@
 {
 	"origin": [
-		"#intro# #person# #things# #reason# "
+		"#tngintro# #tngperson# #things# #reason#",
+		"#entintro# #entperson# #things# #reason#",
+		"#tosintro# #tosperson# #things# #reason#",
+		"#voyintro# #voyperson# #things# #reason#",
+		"#ds9intro# #ds9person# #things# #reason#"
+		
 	],
-	"intro": [
+	"tngintro": [
 		"In this episode",
 		"This time",
-		"Tonight on Star Trek:"
+		"Tonight on Star Trek: The Next Generation"
 	],
-	"person": [
-		"Captain Archer",
-		"Captain Janeway",
+	"entintro": [
+		"In this episode",
+		"This time",
+		"Tonight on Enterprise"
+	],
+	"tosintro": [
+		"In this episode",
+		"This time",
+		"Tonight on Star Trek"
+	],
+	"voyintro": [
+		"In this episode",
+		"This time",
+		"Tonight on Star Trek: Voyager"
+	],
+	"ds9intro": [
+		"In this episode",
+		"This time",
+		"Tonight on Deep Space 9"
+	],
+	"tngperson": [
 		"Captain Picard",
-		"Commander Sisko",
 		"Lt. Cmdr Worf",
 		"Chief O'Brien",
-		"Lt. Reed",
-		"Mr. Sulu",
-		"Subcommander T'Pol",
 		"Geordi",
 		"Dr. Crusher",
 		"Dr. Pulaski",
 		"Counselor Troi",
 		"Data",
 		"Guinan",
-		"Ensign Ro",
-		"Kira",
-		"Odo",
-		"Dr. Bashir",
-		"Dax",
-		"Nog",
+		"Ensign Ro"
+	],
+	"entperson":[
+		"Captain Archer",
+		"Lt. Reed",
+		"Travis",
+		"Hoshi",
+		"Subcommander T'Pol"
+	],
+	"tosperson": [
+		"Captain Kirk",
+		"Spock",
+		"Dr. McCoy",
+		"Mr. Scott",
+		"Uhura",
+		"Chekov",
+		"Mr. Sulu"
+	
+	],
+	"voyperson": [
+		"Captain Janeway",
 		"The EMH",
 		"Cmdr. Tuvok",
 		"Chakotay",
@@ -36,10 +70,18 @@
 		"B'Elanna",
 		"Harry",
 		"Kes",
-		"Seven of Nine",
-		"Travis",
-		"Hoshi",
-		"Captain Kirk"
+		"Seven of Nine"
+	
+	],
+	"ds9person":[
+		
+		"Commander Sisko",
+		"Chief O'Brien",
+		"Kira",
+		"Odo",
+		"Dr. Bashir",
+		"Dax",
+		"Nog"
 	],
 	"things": [
 		"discovers a new planet",
@@ -54,7 +96,6 @@
 		"goes to shore leave on Risa",
 		"hooks up the new warp engine",
 		"returns from shore leave",
-		"doesn't appear at all because it's a bottle episode",
 		"can't get the doctor and first officer to agree",
 		"meets another fake god",
 		"has a transporter accident",
