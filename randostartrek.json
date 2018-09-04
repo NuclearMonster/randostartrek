@@ -118,7 +118,7 @@
 		"hides inside a Xindi Cracker Barrel restaurant",
 		"gets lunch with Degra and always goes to the bathroom before the check gets to the table",
 		"goes into a coma while working on the engines",
-		"is trapped in an addictive game called @ioquake3"
+		"is trapped in an addictive game called ioquake3"
 		
 	],
 	
@@ -159,7 +159,17 @@
 		"celebrates Captain Picard day, alone,",
 		"can't go below warp 5 or the core will explode",
 		"paints some art and drinks wine",
-		"is trapped in an addictive game called @ioquake3"
+		"has a turbolift tantrum",
+		"learns a valuable lesson from Q",
+		"learns a valuable lesson from Q about sorting their groceries",
+		"visits Deep Space 9",
+		"is eaten by a tar monster",
+		"goes on an incredible journey inside the life of a person from an ancient civilization",
+		"plays poker with the gang",
+		"sings Frère Jacques in the jefferies tube with some young people",
+		"gets peer pressured by some teens into arbitrating the next Klingon succession",
+		"gets way into Klingon pain-sticks",
+		"is trapped in an addictive game called ioquake3"
 	],
 	
 	"tosthings": [
@@ -187,7 +197,12 @@
 		"talks with Spock's brain",
 		"accidentally starts a war between two alien races",
 		"has some trouble with tribbles",
-		"is trapped in an addictive game called @ioquake3"
+		"lets the ship get taken over by some aliens with belts that make everyone play freeze tag",
+		"eats some food cubes",
+		"watches as Yeoman Reyes is turned into novelty-sized dice",
+		"Crosses the galactic barrier",
+		"enables the self-destruct to go off whenever the ship passes a Space Wendys",
+		"is trapped in an addictive game called ioquake3"
 	],
 	
 	"voythings": [
@@ -223,7 +238,7 @@
 		"isn't sure if they can love anymore",
 		"ignores the prime directive",
 		"can't go below warp 5 or the core will explode",
-		"is trapped in an addictive game called @ioquake3"
+		"is trapped in an addictive game called ioquake3"
 	
 	],
 	
@@ -246,7 +261,7 @@
 		"plays baseball again for some reason",
 		"has some trouble with tribbles",
 		"battles the Jem'Hadar",
-		"is trapped in an addictive game called @ioquake3"
+		"is trapped in an addictive game called ioquake3"
 	],
 	
 	"reason": [
@@ -281,6 +296,9 @@
 		"but they ran out of the special effects budget and just solved everything with a meeting.",
 		"but they make a genetic duplicate in order to harvest their brain parts.",
 		"but they have to find the cure to save their best friend.",
+		"could have prevented all of this if they had scanned the planet first",
+		"could have prevented all of this if they had scanned the ship first",
+		"could have prevented all of this if they had scanned the station first",
 		"but the crew has mutinied over the latest holonovel!"
 	
 	]
