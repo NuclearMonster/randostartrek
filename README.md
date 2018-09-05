@@ -1,11 +1,14 @@
 # randostartrek
 
+a silly bot written in tracery JSON
+
 ## twitter
-a silly bot written in tracery JSON running on http://cheapbotsdonequick.com
+For twitter we're running on http://cheapbotsdonequick.com
 You can follow it on twitter https://twitter.com/randostartrek
 
 ## mastodon
-The bot is also on mastodon: https://botsin.space/@randostartrek where it uses https://cheapbotstootsweet.com/ to operate
+The bot is also on mastodon: https://botsin.space/@randostartrek 
+where it uses https://cheapbotstootsweet.com/ to operate
 
 ## thank you!!
 Thank you to these other places, podcasts, accounts, and things for inspiration:
