@@ -4,8 +4,8 @@
 		"#entintro# #entperson# #entthings# #reason#",
 		"#tosintro# #tosperson# #tosthings# #reason#",
 		"#voyintro# #voyperson# #voythings# #reason#",
-		"#ds9intro# #ds9person# #ds9things# #reason#"
-		
+		"#ds9intro# #ds9person# #ds9things# #reason#",
+		"#discintro# #discperson# #discthings# #reason#"
 	],
 	"tngintro": [
 		"In this episode",
@@ -31,6 +31,12 @@
 		"In this episode",
 		"This time",
 		"Tonight on Deep Space 9\n"
+	],
+	"discinto": [
+		"In this episode",
+		"This time",
+		"Tonight on Star Trek: Discovery",
+		"Next week, on CBS All-Access"
 	],
 	"tngperson": [
 		"Captain Picard",
@@ -81,10 +87,33 @@
 		"Dax",
 		"Nog"
 	],
+	"discperson":{
+		"Captain Lorca",
+		"Commander Saru",
+		"Lieutenant Tyler",
+		"Michael",
+		"Lieutenant Stamets",
+		"Ensign Tilly",
+		"Doctor Culber",
+		"Voq",
+		"Kol",
+		"Admiral Cornwell",
+		"L'Rell"
+	},
 
 
 	"discthings": [
-		"can't stop watching reruns of 2 Broke Girls on CBS"
+		"can't stop watching reruns of 2 Broke Girls on CBS",
+		"increases the frequency of Black Alert drills",
+		"crosses into the mirror universe to steal a pizza ordered by their counterpart",
+		"finds out how to get really high on mycelium spores",
+		"accidentally gets really high on mycelium spores",
+		"gets caught running a tardigrade fighting ring",
+		"accidentally starts a war with the Klingons",
+		"is convicted of mutiny",
+		"implants their personality into another character's subconscious",
+		"can't stop jumping or the spore drive will explode",
+		"gets stuck in a time loop",
 	],
 	
 	"entthings": [
@@ -251,7 +280,7 @@
 		"finally figures out how to make a fucking cloak work",
 		"has a transporter accident",
 		"infiltrates the Romulan empire",
-		"accidentally tripped a Cardassian booby trap that pipes smooth jazz through the station.",
+		"accidentally tripped a Cardassian booby trap that pipes smooth jazz through the station",
 		"can't leave well enough alone",
 		"can't escape a dream",
 		"can't stop dancing",
@@ -299,7 +328,11 @@
 		"could have prevented all of this if they had scanned the planet first",
 		"could have prevented all of this if they had scanned the ship first",
 		"could have prevented all of this if they had scanned the station first",
-		"but the crew has mutinied over the latest holonovel!"
+		"but the crew has mutinied over the latest holonovel!",
+		"but it turns out it's a faaaaaake",
+		"but takes a wrong turn at Albuquerque",
+		"but ends up stuck in the mirror universe",
+		"but is suspiciously sensitive to light"
 	
 	]
 }
