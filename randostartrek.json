@@ -32,7 +32,7 @@
 		"This time",
 		"Tonight on Deep Space 9\n"
 	],
-	"discinto": [
+	"discintro": [
 		"In this episode",
 		"This time",
 		"Tonight on Star Trek: Discovery",
@@ -113,7 +113,7 @@
 		"is convicted of mutiny",
 		"implants their personality into another character's subconscious",
 		"can't stop jumping or the spore drive will explode",
-		"gets stuck in a time loop",
+		"gets stuck in a time loop"
 	],
 	
 	"entthings": [
