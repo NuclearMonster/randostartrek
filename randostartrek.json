@@ -87,7 +87,7 @@
 		"Dax",
 		"Nog"
 	],
-	"discperson":{
+	"discperson":[
 		"Captain Lorca",
 		"Commander Saru",
 		"Lieutenant Tyler",
@@ -99,7 +99,7 @@
 		"Kol",
 		"Admiral Cornwell",
 		"L'Rell"
-	},
+	],
 
 
 	"discthings": [
