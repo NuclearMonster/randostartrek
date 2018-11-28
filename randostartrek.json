@@ -113,7 +113,8 @@
 		"is convicted of mutiny",
 		"implants their personality into another character's subconscious",
 		"can't stop jumping or the spore drive will explode",
-		"gets stuck in a time loop"
+		"gets stuck in a time loop",
+		"reconfigures the spore drive to mine bitcoin"
 	],
 	
 	"entthings": [
@@ -147,8 +148,8 @@
 		"hides inside a Xindi Cracker Barrel restaurant",
 		"gets lunch with Degra and always goes to the bathroom before the check gets to the table",
 		"goes into a coma while working on the engines",
-		"is trapped in an addictive game called ioquake3"
-		
+		"is trapped in an addictive game called ioquake3",
+		"repurposes the ship's computers to mine bitcoin"
 	],
 	
 	"tngthings": [
@@ -200,7 +201,8 @@
 		"gets way into Klingon pain-sticks",
 		"has to solve a Sherlock Holmes mystery in order to unlock the holodeck",
 		"is into some noir shit on the Holodeck",
-		"is trapped in an addictive game called ioquake3"
+		"is trapped in an addictive game called ioquake3",
+		"repurposes the ship's computers to mine bitcoin"
 	],
 	
 	"tosthings": [
@@ -233,7 +235,8 @@
 		"watches as Yeoman Reyes is turned into novelty-sized dice",
 		"Crosses the galactic barrier",
 		"enables the self-destruct to go off whenever the ship passes a Space Wendys",
-		"is trapped in an addictive game called ioquake3"
+		"is trapped in an addictive game called ioquake3",
+		"repurposes the ship's computers to mine bitcoin"
 	],
 	
 	"voythings": [
@@ -269,8 +272,8 @@
 		"isn't sure if they can love anymore",
 		"ignores the prime directive",
 		"can't go below warp 5 or the core will explode",
-		"is trapped in an addictive game called ioquake3"
-	
+		"is trapped in an addictive game called ioquake3",
+		"repurposes the Delta Flyer's computers to mine bitcoin"
 	],
 	
 	"ds9things": [
@@ -292,7 +295,8 @@
 		"plays baseball again for some reason",
 		"has some trouble with tribbles",
 		"battles the Jem'Hadar",
-		"is trapped in an addictive game called ioquake3"
+		"is trapped in an addictive game called ioquake3",
+		"repurposes the station's computers to mine bitcoin"
 	],
 	
 	"reason": [
@@ -334,7 +338,8 @@
 		"but it turns out it's a faaaaaake",
 		"but takes a wrong turn at Albuquerque",
 		"but ends up stuck in the mirror universe",
-		"but is suspiciously sensitive to light"
+		"but is suspiciously sensitive to light",
+		"but the crypto market crashes and isolinear GPU prices return to normal"
 	
 	]
 }
