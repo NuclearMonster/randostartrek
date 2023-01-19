@@ -2,9 +2,10 @@
 
 a silly bot written in tracery JSON
 
-## twitter
+## twitter EOL'd
 For twitter we're running on http://cheapbotsdonequick.com
 You can follow it on twitter https://twitter.com/randostartrek
+(January 2023) At this time the bot is no-longer posting on twitter.
 
 ## mastodon
 The bot is also on mastodon: https://botsin.space/@randostartrek 
